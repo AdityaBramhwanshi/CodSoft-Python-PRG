@@ -12,3 +12,27 @@ The choices function takes two arguments: a sequence of items to choose from and
 
 4 : In the next step your random password will be generated and you can display is using print funtion . 
     print(password)
+
+
+
+
+Python calculator : The program is created in the following steps :-
+1 : Define Functions: Addition, Subtraction, Multiplication, and Division
+2 : Promoting Input from the user
+3 : Choosing which operation to perform
+4 : Return the output based on the operation being choosen .
+5 : Display the output . 
+6(optional) : Create a loop under which you can ask user whether operation to be continued or stop . 
+
+
+
+
+Rock Paper Scissors Game : To build the Rock paper scissors python game, we will divide the problem statement into three simple steps to help us build the game.
+
+The steps are as follows:
+
+1 : Take the input from the user to know their choice (rock, paper or scissors).
+2 : Randomly allow the computer to choose its choice.
+3 : Based on the game rules, decide the winner .
+4 : Display the winner on the screen.
+5 : Ask the User to continue the game or stop the game . 
